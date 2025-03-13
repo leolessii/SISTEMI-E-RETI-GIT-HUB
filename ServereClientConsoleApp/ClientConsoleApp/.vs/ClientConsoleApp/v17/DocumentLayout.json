@@ -1,0 +1,57 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Leonardo.Lessi\\Documents\\SISTEMI-E-RETI-GIT-HUB\\ServereClientConsoleApp\\ClientConsoleApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9E4A5B9F-C11E-40A0-A0DF-5680F10A0B2C}|..\\ServerConsoleApp\\ServerConsoleApp.csproj|c:\\users\\leonardo.lessi\\documents\\sistemi-e-reti-git-hub\\servereclientconsoleapp\\serverconsoleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0C6CC29-FF15-4B1C-9254-771C7C69C750}|ClientConsoleApp.csproj|c:\\users\\leonardo.lessi\\documents\\sistemi-e-reti-git-hub\\servereclientconsoleapp\\clientconsoleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0C6CC29-FF15-4B1C-9254-771C7C69C750}|ClientConsoleApp.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Leonardo.Lessi\\Documents\\SISTEMI-E-RETI-GIT-HUB\\ServereClientConsoleApp\\ClientConsoleApp\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Leonardo.Lessi\\Documents\\SISTEMI-E-RETI-GIT-HUB\\ServereClientConsoleApp\\ClientConsoleApp\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T09:43:04.961Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Leonardo.Lessi\\Documents\\SISTEMI-E-RETI-GIT-HUB\\ServereClientConsoleApp\\ServerConsoleApp\\Program.cs",
+              "RelativeDocumentMoniker": "..\\ServerConsoleApp\\Program.cs",
+              "ToolTip": "C:\\Users\\Leonardo.Lessi\\Documents\\SISTEMI-E-RETI-GIT-HUB\\ServereClientConsoleApp\\ServerConsoleApp\\Program.cs",
+              "RelativeToolTip": "..\\ServerConsoleApp\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T09:11:09.524Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

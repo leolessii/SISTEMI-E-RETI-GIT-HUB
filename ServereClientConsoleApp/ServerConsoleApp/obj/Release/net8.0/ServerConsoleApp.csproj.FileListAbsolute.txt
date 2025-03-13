@@ -1,0 +1,15 @@
+C:\Users\Leonardo.Lessi\Documents\SISTEMI-E-RETI-GIT-HUB\ServereClientConsoleApp\ServerConsoleApp\bin\Release\net8.0\ServerConsoleApp.exe
+C:\Users\Leonardo.Lessi\Documents\SISTEMI-E-RETI-GIT-HUB\ServereClientConsoleApp\ServerConsoleApp\bin\Release\net8.0\ServerConsoleApp.deps.json
+C:\Users\Leonardo.Lessi\Documents\SISTEMI-E-RETI-GIT-HUB\ServereClientConsoleApp\ServerConsoleApp\bin\Release\net8.0\ServerConsoleApp.runtimeconfig.json
+C:\Users\Leonardo.Lessi\Documents\SISTEMI-E-RETI-GIT-HUB\ServereClientConsoleApp\ServerConsoleApp\bin\Release\net8.0\ServerConsoleApp.dll
+C:\Users\Leonardo.Lessi\Documents\SISTEMI-E-RETI-GIT-HUB\ServereClientConsoleApp\ServerConsoleApp\bin\Release\net8.0\ServerConsoleApp.pdb
+C:\Users\Leonardo.Lessi\Documents\SISTEMI-E-RETI-GIT-HUB\ServereClientConsoleApp\ServerConsoleApp\obj\Release\net8.0\ServerConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Leonardo.Lessi\Documents\SISTEMI-E-RETI-GIT-HUB\ServereClientConsoleApp\ServerConsoleApp\obj\Release\net8.0\ServerConsoleApp.AssemblyInfoInputs.cache
+C:\Users\Leonardo.Lessi\Documents\SISTEMI-E-RETI-GIT-HUB\ServereClientConsoleApp\ServerConsoleApp\obj\Release\net8.0\ServerConsoleApp.AssemblyInfo.cs
+C:\Users\Leonardo.Lessi\Documents\SISTEMI-E-RETI-GIT-HUB\ServereClientConsoleApp\ServerConsoleApp\obj\Release\net8.0\ServerConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\Leonardo.Lessi\Documents\SISTEMI-E-RETI-GIT-HUB\ServereClientConsoleApp\ServerConsoleApp\obj\Release\net8.0\ServerConsoleApp.sourcelink.json
+C:\Users\Leonardo.Lessi\Documents\SISTEMI-E-RETI-GIT-HUB\ServereClientConsoleApp\ServerConsoleApp\obj\Release\net8.0\ServerConsoleApp.dll
+C:\Users\Leonardo.Lessi\Documents\SISTEMI-E-RETI-GIT-HUB\ServereClientConsoleApp\ServerConsoleApp\obj\Release\net8.0\refint\ServerConsoleApp.dll
+C:\Users\Leonardo.Lessi\Documents\SISTEMI-E-RETI-GIT-HUB\ServereClientConsoleApp\ServerConsoleApp\obj\Release\net8.0\ServerConsoleApp.pdb
+C:\Users\Leonardo.Lessi\Documents\SISTEMI-E-RETI-GIT-HUB\ServereClientConsoleApp\ServerConsoleApp\obj\Release\net8.0\ServerConsoleApp.genruntimeconfig.cache
+C:\Users\Leonardo.Lessi\Documents\SISTEMI-E-RETI-GIT-HUB\ServereClientConsoleApp\ServerConsoleApp\obj\Release\net8.0\ref\ServerConsoleApp.dll
