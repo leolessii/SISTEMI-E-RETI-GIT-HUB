@@ -1,0 +1,17 @@
+﻿<Window x:Class="ServerWPFApp.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ServerWPFApp"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Label Content="TCP-SERVER" HorizontalAlignment="Left" Height="63" Margin="36,25,0,0" VerticalAlignment="Top" Width="319" FontSize="36"/>
+        <Button x:Name="btnStart" Content="Start" HorizontalAlignment="Left" Height="63" Margin="548,25,0,0" VerticalAlignment="Top" Width="208" BorderBrush="#FF00357D" Background="#FF2CDDFF" FontSize="22" Click="btnStart_Click"/>
+        <TextBlock x:Name="txtMessaggioClient" HorizontalAlignment="Center" Height="88" Margin="0,114,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="328" FontSize="20" Foreground="Black" Background="#FF3FA0C8"/>
+        <TextBox x:Name="txtMessaggioDaInviare" HorizontalAlignment="Center" Height="63" Margin="0,217,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="328" BorderBrush="#FFFF7500" BorderThickness="3,3,3,3" FontSize="20"/>
+        <Button x:Name="btnInvioMessaggio" Content="Iniva Messaggio" HorizontalAlignment="Center" Height="90" Margin="0,306,0,0" VerticalAlignment="Top" Width="328" BorderBrush="Red" BorderThickness="3,3,3,3" Background="#FFE87979" FontSize="20" Click="btnInvioMessaggio_Click"/>
+
+    </Grid>
+</Window>
