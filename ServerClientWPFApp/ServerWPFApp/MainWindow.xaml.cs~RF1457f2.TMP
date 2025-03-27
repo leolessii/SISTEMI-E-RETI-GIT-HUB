@@ -24,7 +24,6 @@ namespace ServerWPFApp
         public MainWindow()
         {
             InitializeComponent();
-            btnInvioMessaggio.IsEnabled = false;
         }
 
         public void StartServer()
@@ -81,9 +80,9 @@ namespace ServerWPFApp
                     {
                         break;
                     }
-
+                    
                     txtMessaggioClient.Text = data;
-                    if (txtMessaggioClient.Text != string.Empty)
+                    if(txtMessaggioClient.Text != string.Empty)
                     {
                         break;
                     }
@@ -109,11 +108,10 @@ namespace ServerWPFApp
 
         private void btnCambiaIp_Click(object sender, RoutedEventArgs e)
         {
-            while (string.IsNullOrEmpty(txtIp.Text))
+            while(string.IsNullOrEmpty(txtIp.Text))
             {
                 MessageBox.Show("Ip non valido");
             }
-            btnInvioMessaggio.IsEnabled = true; 
         }
     }
 }

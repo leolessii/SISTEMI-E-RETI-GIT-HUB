@@ -22,11 +22,9 @@ namespace ClientWPFApp
         public Socket Sender;
         public byte[] msgBytes;
         public byte[] buffer;
-        public Socket handler;
         public MainWindow()
         {
             InitializeComponent();
-            btnInvioMessaggio.IsEnabled = false;
         }
 
         public void StartClient()
@@ -76,15 +74,6 @@ namespace ClientWPFApp
         private void btnStart_Click(object sender, RoutedEventArgs e)
         {
             StartClient();
-        }
-
-        private void btnCambiaIp_Click(object sender, RoutedEventArgs e)
-        {
-            while (string.IsNullOrEmpty(txtIp.Text))
-            {
-                MessageBox.Show("Ip non valido");
-            }
-            btnInvioMessaggio.IsEnabled = true;
         }
     }
 }

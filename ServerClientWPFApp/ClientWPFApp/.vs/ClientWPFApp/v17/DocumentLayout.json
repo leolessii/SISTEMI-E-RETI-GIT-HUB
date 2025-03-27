@@ -3,18 +3,21 @@
   "WorkspaceRootPath": "C:\\Users\\Leonardo.Lessi\\Documents\\SISTEMI-E-RETI-GIT-HUB\\ServerClientWPFApp\\ClientWPFApp\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{0499AAD9-E954-451E-A19B-1ED52C921948}|ClientWPFApp.csproj|c:\\users\\leonardo.lessi\\documents\\sistemi-e-reti-git-hub\\serverclientwpfapp\\clientwpfapp\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0499AAD9-E954-451E-A19B-1ED52C921948}|ClientWPFApp.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{78951993-A8B3-4557-AFCB-6C6765FED4D6}|..\\ServerWPFApp\\ServerWPFApp.csproj|c:\\users\\leonardo.lessi\\documents\\sistemi-e-reti-git-hub\\serverclientwpfapp\\serverwpfapp\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0499AAD9-E954-451E-A19B-1ED52C921948}|ClientWPFApp.csproj|c:\\users\\leonardo.lessi\\documents\\sistemi-e-reti-git-hub\\serverclientwpfapp\\clientwpfapp\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{0499AAD9-E954-451E-A19B-1ED52C921948}|ClientWPFApp.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{78951993-A8B3-4557-AFCB-6C6765FED4D6}|..\\ServerWPFApp\\ServerWPFApp.csproj|c:\\users\\leonardo.lessi\\documents\\sistemi-e-reti-git-hub\\serverclientwpfapp\\serverwpfapp\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0499AAD9-E954-451E-A19B-1ED52C921948}|ClientWPFApp.csproj|c:\\users\\leonardo.lessi\\documents\\sistemi-e-reti-git-hub\\serverclientwpfapp\\clientwpfapp\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0499AAD9-E954-451E-A19B-1ED52C921948}|ClientWPFApp.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0499AAD9-E954-451E-A19B-1ED52C921948}|ClientWPFApp.csproj|c:\\users\\leonardo.lessi\\documents\\sistemi-e-reti-git-hub\\serverclientwpfapp\\clientwpfapp\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{0499AAD9-E954-451E-A19B-1ED52C921948}|ClientWPFApp.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{78951993-A8B3-4557-AFCB-6C6765FED4D6}|..\\ServerWPFApp\\ServerWPFApp.csproj|c:\\users\\leonardo.lessi\\documents\\sistemi-e-reti-git-hub\\serverclientwpfapp\\serverwpfapp\\mainwindow.xaml.cs~rf1457f2.tmp||{8B382828-6202-11D1-8870-0000F87579D2}"
     }
   ],
   "DocumentGroupContainers": [
@@ -24,11 +27,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "MainWindow.xaml",
               "DocumentMoniker": "C:\\Users\\Leonardo.Lessi\\Documents\\SISTEMI-E-RETI-GIT-HUB\\ServerClientWPFApp\\ClientWPFApp\\MainWindow.xaml",
               "RelativeDocumentMoniker": "MainWindow.xaml",
@@ -36,24 +39,26 @@
               "RelativeToolTip": "MainWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2025-03-13T09:15:16.455Z",
-              "IsPinned": true
+              "IsPinned": true,
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "MainWindow.xaml.cs",
               "DocumentMoniker": "C:\\Users\\Leonardo.Lessi\\Documents\\SISTEMI-E-RETI-GIT-HUB\\ServerClientWPFApp\\ClientWPFApp\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "MainWindow.xaml.cs",
               "ToolTip": "C:\\Users\\Leonardo.Lessi\\Documents\\SISTEMI-E-RETI-GIT-HUB\\ServerClientWPFApp\\ClientWPFApp\\MainWindow.xaml.cs",
               "RelativeToolTip": "MainWindow.xaml.cs",
-              "ViewState": "AQIAAB0AAAAAAAAAAAAgwDEAAAA+AAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFUAAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-13T09:15:17.387Z",
-              "IsPinned": true
+              "IsPinned": true,
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "MainWindow.xaml",
               "DocumentMoniker": "C:\\Users\\Leonardo.Lessi\\Documents\\SISTEMI-E-RETI-GIT-HUB\\ServerClientWPFApp\\ServerWPFApp\\MainWindow.xaml",
               "RelativeDocumentMoniker": "..\\ServerWPFApp\\MainWindow.xaml",
@@ -65,22 +70,34 @@
               "EditorCaption": ""
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "MainWindow.xaml.cs",
               "DocumentMoniker": "C:\\Users\\Leonardo.Lessi\\Documents\\SISTEMI-E-RETI-GIT-HUB\\ServerClientWPFApp\\ServerWPFApp\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "..\\ServerWPFApp\\MainWindow.xaml.cs",
               "ToolTip": "C:\\Users\\Leonardo.Lessi\\Documents\\SISTEMI-E-RETI-GIT-HUB\\ServerClientWPFApp\\ServerWPFApp\\MainWindow.xaml.cs",
               "RelativeToolTip": "..\\ServerWPFApp\\MainWindow.xaml.cs",
-              "ViewState": "AQIAACoAAAAAAAAAAAAowFUAAAAeAAAA",
+              "ViewState": "AQIAAFIAAAAAAAAAAAAYwG8AAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-13T09:15:26.558Z",
-              "IsPinned": true,
+              "WhenOpened": "2025-03-27T09:23:51.366Z",
               "EditorCaption": ""
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainWindow.xaml.cs~RF1457f2.TMP",
+              "DocumentMoniker": "C:\\Users\\Leonardo.Lessi\\Documents\\SISTEMI-E-RETI-GIT-HUB\\ServerClientWPFApp\\ServerWPFApp\\MainWindow.xaml.cs~RF1457f2.TMP",
+              "RelativeDocumentMoniker": "..\\ServerWPFApp\\MainWindow.xaml.cs~RF1457f2.TMP",
+              "ToolTip": "C:\\Users\\Leonardo.Lessi\\Documents\\SISTEMI-E-RETI-GIT-HUB\\ServerClientWPFApp\\ServerWPFApp\\MainWindow.xaml.cs~RF1457f2.TMP",
+              "RelativeToolTip": "..\\ServerWPFApp\\MainWindow.xaml.cs~RF1457f2.TMP",
+              "ViewState": "AQIAAD4AAAAAAAAAAAAgwEIAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-03-27T09:23:47.769Z",
+              "EditorCaption": ""
             }
           ]
         }

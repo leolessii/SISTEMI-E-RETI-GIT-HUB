@@ -12,5 +12,7 @@
         <TextBlock x:Name="txtMessaggioServer" HorizontalAlignment="Center" Height="88" Margin="0,114,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="328" FontSize="20" Foreground="Black" Background="#FF3FA0C8"/>
         <TextBox x:Name="txtMessaggioDaInviare" HorizontalAlignment="Center" Height="63" Margin="0,217,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="328" BorderBrush="#FFFF7500" BorderThickness="3,3,3,3" FontSize="20"/>
         <Button x:Name="btnInvioMessaggio" Content="Iniva Messaggio" HorizontalAlignment="Center" Height="90" Margin="0,306,0,0" VerticalAlignment="Top" Width="328" BorderBrush="Red" BorderThickness="3,3,3,3" Background="#FFE87979" FontSize="20" Click="btnInvioMessaggio_Click"/>
+        <TextBox x:Name="txtIp" HorizontalAlignment="Left" Height="30" Margin="36,114,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="160" BorderBrush="Black"/>
+        <Button x:Name="btnCambiaIp" Content="Cambia Ip" HorizontalAlignment="Left" Height="44" Margin="36,158,0,0" VerticalAlignment="Top" Width="160" BorderBrush="#FF00FF33" BorderThickness="2,2,2,2" Background="#FF56C340" Click="btnCambiaIp_Click"/>
     </Grid>
 </Window>
